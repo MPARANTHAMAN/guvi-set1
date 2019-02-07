@@ -4,4 +4,4 @@ if(m<0):
 elif(m%2!=1):
 	print("Even")
 elif(m%2==1):
-	print("odd")
+	print("Odd")
