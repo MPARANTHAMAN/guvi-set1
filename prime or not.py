@@ -4,4 +4,4 @@ for i in range(2,number):
 		print("no")
 		break
 else:
-    print("yes")
+                print("yes")
